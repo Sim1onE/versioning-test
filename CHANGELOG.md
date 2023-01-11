@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.1](https://github.com/Sim1onE/versioning-test/compare/v2.0.0...v2.0.1) (2023-01-11)
+
+
+### Bug Fixes
+
+* prova ([a69e6fe](https://github.com/Sim1onE/versioning-test/commit/a69e6fe81f576570efbbe041db10ce3651024559))
+* remove prova ([6233f19](https://github.com/Sim1onE/versioning-test/commit/6233f19adbe79573bd233a772f01ee229d21f5dc))
+
 ## [2.0.0](https://github.com/Sim1onE/versioning-test/compare/v1.1.0...v2.0.0) (2023-01-11)
 
 
