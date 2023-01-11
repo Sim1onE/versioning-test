@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.0.0](https://github.com/Sim1onE/versioning-test/compare/v1.1.0...v2.0.0) (2023-01-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* fake refactor
+
+### Features
+
+* add feature ([8b6915b](https://github.com/Sim1onE/versioning-test/commit/8b6915b0d4a153d6509a76cbfdb26d8693bfa7c8))
+
+
+### Bug Fixes
+
+* add fix ([acbe624](https://github.com/Sim1onE/versioning-test/commit/acbe624674ea3208646229c749ea4ed008b52a80))
+* fake refactor ([39185ab](https://github.com/Sim1onE/versioning-test/commit/39185ab1dc3bee9f36ba4abf32389589834b9eea))
+* remove console log Nest prova ([cf9a25c](https://github.com/Sim1onE/versioning-test/commit/cf9a25ccc5d7aff3dc194e0149104956d4dc27bc))
+
 ## [1.1.0](https://github.com/Sim1onE/versioning-test/compare/v1.0.0...v1.1.0) (2023-01-11)
 
 
