@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.0.3](https://github.com/Sim1onE/versioning-test/compare/v2.0.2...v2.0.3) (2023-01-16)
+
+
+### Bug Fixes
+
+* prova ([60a3030](https://github.com/Sim1onE/versioning-test/commit/60a3030cdf8ac3e2de486c57680dd3a93549c245))
+* prova provetta ([b34e9c9](https://github.com/Sim1onE/versioning-test/commit/b34e9c91993e68c9648ff3bcc9a7f5e419272c0d))
+* release-please.yml ([b65c3c7](https://github.com/Sim1onE/versioning-test/commit/b65c3c7ae76e81fc857482939187b58ac744b363))
+
 ## [2.0.2](https://github.com/Sim1onE/versioning-test/compare/v2.0.1...v2.0.2) (2023-01-11)
 
 
